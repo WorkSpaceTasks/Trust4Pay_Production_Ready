@@ -1,2 +1,0 @@
-# Trust4Pay_Production_Ready
-Trust4Pay_Production_Ready
